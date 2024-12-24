@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093240861390",
+    "project_id": "seg-project-148f4",
+    "storage_bucket": "seg-project-148f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093240861390:android:506f19172a9134559b969f",
+        "android_client_info": {
+          "package_name": "com.uottawa.eecs.seg_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBgsreG0nM4IfkGWKbQMGpoVAIYAGicCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
